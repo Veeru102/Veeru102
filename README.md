@@ -4,43 +4,43 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1800&pause=1000&center=true&vCenter=true&width=800&lines=CS+%26+Data+Science+student+%40+UW–Madison;Building+AI+Agents+%26+ML+Pipelines;Full-Stack+Developer+%7C+FastAPI+%2B+React;Deep+Learning+for+Segmenting+Brain+Tumors;Hackathon+Addict;Always+Building+Cool+Stuff;EdTech+%7C+ML+Infra+%7C+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1800&pause=1000&center=true&vCenter=true&width=800&lines=CS+%26+Data+Science+student+%40+UW–Madison;Building+AI+Agents+%26+ML+Pipelines;Full-Stack+Developer;Deep+Learning+for+Segmenting+Brain+Tumors;Hackathon+Addict;Always+Building+Cool+Stuff" alt="Typing SVG" />
   </a>
 </p>
 
-
-<p align="center">Veeru Senthil</p>
 <p align="center"><em>Computer Science & Data Science @ University of Wisconsin–Madison</em></p>
 
 ---
 
 ## About Me
-- ML Research Engineer @ UW–Madison Molecular Imaging Lab — automatic tumor segmentation of MRI scans
-- SWE Intern @ Federated Hermes — full-stack development for Asset Management  
-- SWE Intern @ Inpleo — vendor classification + ML pipelines for procurement and finance
+- ML Research Engineer @ UW–Madison Molecular Imaging Lab — automatic tumor segmentation of MRI scans using nnU-Net & PyTorch  
+- SWE Intern @ Federated Hermes — built full-stack analytics platform with Kafka/Kubernetes event pipeline  
+- SWE Intern @ Inpleo — led ML pipeline development for procurement & vendor intelligence  
 - Builder of:
   - **MedPub** – AI assistant for summarizing medical publications  
   - **PropPulse** – property analytics using embeddings and prediction models  
-  - **VibirEdu** – budget simulation with LLM agents and forecasting  
-  - **NeuroStride** – wearable brace for MS patients using real-time ML
+  - **VibirEdu** – K-12 budget planning simulation with LLM agents  
+  - **NeuroStride** – wearable device for MS patients with real-time ML predictions  
 
-Experienced in building scalable ML pipelines, autonomous agent workflows, and full-stack applications with practical impact across healthcare & finance
+Experienced in designing scalable ML workflows, deploying agent-based systems, and delivering full-stack applications that solve real-world problems.
 
-Messing around with automated voice agents, computer vision, and low-latency systems
+Currently experimenting with deep learning for medical vision, model serving, and tooling for rapid iteration.
 
 ---
 
 ## Career Interests
-ML • AI • Agents • Natural Language Processing •  Computer Vision • Fintech • Healthcare
+ML • AI • Agents • NLP • Computer Vision
+
+---
 
 ## Hobbies
-- **Basketball** – played in high school, washed up aand now just a pickup merchant (go Celtics!)  
-- **Cooking** – work in progress but kitchen is still intact for now
-- **Fantasy Football** – many might consider me an NFL GM
-- **Chess** – I mostly run the French Defense, Ruy Lopez, or Itallian
-- **Legos** – A MAN HAS FALLEN INTO THE RIVER IN LEGO CITY
-- **Star Wars** – Sequel trilogy is not cannon
-- **Poker** – Might just mess around and beat you at the river   
+- **Basketball** – played in high school, washed up now but still a pickup merchant (go Celtics!)  
+- **Cooking** – work in progress, but the fire alarm hasn't gone off… recently  
+- **Fantasy Football** – many would consider me a virtual NFL GM  
+- **Chess** – usually running the French, Ruy Lopez, or Italian  
+- **Legos** – still building starships at 3am like it’s 2009  
+- **Star Wars** – everything except the sequel trilogy  
+- **Poker** – might just mess around and beat you on the river  
 
 ---
 
@@ -70,9 +70,6 @@ ML • AI • Agents • Natural Language Processing •  Computer Vision • Fi
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
 </p>
-
----
-
 
 ---
 
