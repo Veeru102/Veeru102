@@ -2,13 +2,10 @@
 
 <h1 align="center">Hi there, I'm Veeru Senthil</h1>
 
-<p align="center"><em>CS & Data Science @ UW–Madison</em></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app/?font=Inter&weight=700&size=24&pause=1000&center=true&vCenter=true&width=800&lines=CS+%26+Data+Science+student+%40+UW–Madison;Building+AI+Agents+%26+ML+Pipelines;Full-Stack+Developer;Deep+Learning+for+Segmenting+Brain+Tumors;Hackathon+Addict;Always+Building+Cool+Stuff" alt="Typing SVG" />
 </p>
-
-<p align="center"><em>Computer Science & Data Science @ University of Wisconsin–Madison</em></p>
 
 ---
 
