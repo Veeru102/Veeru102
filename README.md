@@ -1,28 +1,24 @@
 <!-- Profile README for github.com/Veeru102 -->
 
-<!-- Top soft gradient header -->
+<!-- Full-width gradient header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:bbdefb,100:e3f2fd&height=120&section=header&text=&fontSize=0&animation=fadeIn" alt="header gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:bbdefb,100:e3f2fd&section=header&reversal=true" alt="header gradient"/>
 </p>
 
-<!-- Title Card -->
-<div align="center">
-  <div style="max-width:980px;margin:0 auto;padding:22px 24px;border-radius:18px;background:rgba(255,255,255,0.60);border:1px solid rgba(163,204,255,0.55);box-shadow:0 10px 30px rgba(150,180,220,0.25);backdrop-filter:saturate(120%);">
-    <h1 style="margin:0 0 8px 0;font-weight:800;">Hi there, I'm Veeru Senthil</h1>
-    <p>
-      <img src="https://readme-typing-svg.vercel.app/?font=Inter&weight=700&size=24&pause=1000&center=true&vCenter=true&width=800&lines=CS+%26+Data+Science+student+%40+UW–Madison;Building+AI+Agents+%26+ML+Pipelines;Full-Stack+Developer;Deep+Learning+for+Segmenting+Brain+Tumors;Hackathon+Addict;Always+Building+Cool+Stuff" alt="Typing SVG"/>
-    </p>
-  </div>
-</div>
+<h1 align="center">Hi there, I'm Veeru Senthil</h1>
 
-<!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer&animation=scaleIn" alt="divider"/>
+  <img src="https://readme-typing-svg.vercel.app/?font=Inter&weight=700&size=24&pause=1000&center=true&vCenter=true&width=800&lines=CS+%26+Data+Science+student+%40+UW–Madison;Building+AI+Agents+%26+ML+Pipelines;Full-Stack+Developer;Deep+Learning+for+Segmenting+Brain+Tumors;Hackathon+Addict;Always+Building+Cool+Stuff" alt="Typing SVG" />
 </p>
 
-<!-- About Me Card -->
+<!-- subtle divider -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
+</p>
+
+<!-- About Me card -->
 <div align="center">
-  <div style="max-width:980px;margin:0 auto;padding:22px 24px;border-radius:18px;background:rgba(255,255,255,0.66);border:1px solid rgba(163,204,255,0.55);box-shadow:0 10px 30px rgba(150,180,220,0.22);">
+  <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;">
     <h2 style="margin-top:0;">About Me</h2>
 
 - ML Research Engineer @ UW–Madison Molecular Imaging Lab — automatic tumor segmentation of MRI scans
@@ -41,29 +37,27 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
   </div>
 </div>
 
-<!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
 </p>
 
-<!-- Interests Card (animated) -->
+<!-- Career Interests card -->
 <div align="center">
-  <div style="max-width:980px;margin:0 auto;padding:18px 24px;border-radius:18px;background:rgba(255,255,255,0.66);border:1px solid rgba(163,204,255,0.55);box-shadow:0 10px 30px rgba(150,180,220,0.22);">
+  <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;">
     <h2 style="margin-top:0;">Career Interests</h2>
     <p align="center" style="margin:12px 0 4px 0;">
-      <img src="https://readme-typing-svg.vercel.app/?font=Inter&weight=700&size=22&pause=1100&center=true&vCenter=true&width=700&lines=ML+%E2%80%A2+AI+%E2%80%A2+Agents+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;Fintech+%E2%80%A2+Healthcare+%E2%80%A2+Applied+ML+%2F+DL+Research" alt="Typing Interests"/>
+      <img src="https://readme-typing-svg.vercel.app/?font=Inter&weight=700&size=22&pause=1100&center=true&vCenter=true&width=700&lines=ML+%E2%80%A2+AI+%E2%80%A2+Agents+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;Fintech+%E2%80%A2+Healthcare+%E2%80%A2+Applied+ML+%2F+DL+Research" alt="Typing Interests" />
     </p>
   </div>
 </div>
 
-<!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
 </p>
 
-<!-- Hobbies Card -->
+<!-- Hobbies card -->
 <div align="center">
-  <div style="max-width:980px;margin:0 auto;padding:22px 24px;border-radius:18px;background:rgba(255,255,255,0.66);border:1px solid rgba(163,204,255,0.55);box-shadow:0 10px 30px rgba(150,180,220,0.22);">
+  <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;">
     <h2 style="margin-top:0;">Hobbies</h2>
 
 - **Basketball** – played in high school, washed up now but still a pickup merchant (go Celtics!)  
@@ -77,14 +71,13 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
   </div>
 </div>
 
-<!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
 </p>
 
-<!-- Tech Stack Card -->
+<!-- Tech Stack card -->
 <div align="center">
-  <div style="max-width:980px;margin:0 auto;padding:22px 24px;border-radius:18px;background:rgba(255,255,255,0.66);border:1px solid rgba(163,204,255,0.55);box-shadow:0 10px 30px rgba(150,180,220,0.22);">
+  <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;">
     <h2 style="margin-top:0;">Tech Stack</h2>
     <p>
 
@@ -128,14 +121,13 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
   </div>
 </div>
 
-<!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
 </p>
 
-<!-- Links Card -->
+<!-- Links card -->
 <div align="center">
-  <div style="max-width:980px;margin:0 auto;padding:22px 24px;border-radius:18px;background:rgba(255,255,255,0.66);border:1px solid rgba(163,204,255,0.55);box-shadow:0 10px 30px rgba(150,180,220,0.22);">
+  <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;">
     <h2 style="margin-top:0;">Links</h2>
 
 - LinkedIn: [Veeru Senthil](https://www.linkedin.com/in/veeru-senthil-051892246/)  
@@ -144,7 +136,7 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
   </div>
 </div>
 
-<!-- Bottom soft gradient footer -->
+<!-- Full-width gradient footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e3f2fd,100:b3e5fc&height=100&section=footer&text=&fontSize=0" alt="footer gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:e3f2fd,100:b3e5fc&section=footer" alt="footer gradient"/>
 </p>
