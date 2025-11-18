@@ -26,7 +26,10 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
 ---
 
 ## Career Interests
-<h2 align="center"><strong>ML • AI • Agents • NLP • Computer Vision</strong></h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Inter&weight=700&size=22&pause=1100&center=true&vCenter=true&width=700&lines=ML+%E2%80%A2+AI+%E2%80%A2+Agents+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;Fintech+%E2%80%A2+Healthcare+%E2%80%A2+Applied+ML+%2F+DL+Research" alt="Typing Interests" />
+</p>
 
 ---
 
