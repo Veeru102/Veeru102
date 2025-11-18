@@ -26,16 +26,16 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
 ---
 
 ## Career Interests
-ML • AI • Agents • NLP • Computer Vision
+<h2 align="center"><strong>ML • AI • Agents • NLP • Computer Vision</strong></h3>
 
 ---
 
 ## Hobbies
 - **Basketball** – played in high school, washed up now but still a pickup merchant (go Celtics!)  
 - **Cooking** – work in progress, but the fire alarm hasn't gone off… recently  
-- **Fantasy Football** – many would consider me a virtual NFL GM  
+- **Fantasy Football** – many would consider me an NFL GM  
 - **Chess** – usually running the French, Ruy Lopez, or Italian  
-- **Legos** – still building starships at 3am like it’s 2009  
+- **Legos** – A MAN HAS FALLEN INTO THE RIVER IN LEGO CITY 
 - **Star Wars** – everything except the sequel trilogy  
 - **Poker** – might just mess around and beat you on the river  
 
@@ -84,6 +84,5 @@ ML • AI • Agents • NLP • Computer Vision
 ---
 
 ## Links
-- GitHub: [Veeru102](https://github.com/Veeru102)  
 - LinkedIn: [Veeru Senthil](https://www.linkedin.com/in/veeru-senthil-051892246/)  
 - Email: vksenthil@wisc.edu
