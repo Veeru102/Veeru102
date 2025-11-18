@@ -11,15 +11,15 @@
   <img src="https://readme-typing-svg.vercel.app/?font=Inter&weight=700&size=24&pause=1000&center=true&vCenter=true&width=800&lines=CS+%26+Data+Science+student+%40+UW–Madison;Building+AI+Agents+%26+ML+Pipelines;Full-Stack+Developer;Deep+Learning+for+Segmenting+Brain+Tumors;Hackathon+Addict;Always+Building+Cool+Stuff" alt="Typing SVG" />
 </p>
 
-<!-- subtle divider -->
+<!-- divider -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
 </p>
 
-<!-- About Me card -->
+<!-- About Me (LEFT aligned content) -->
 <div align="center">
-  <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;">
-    <h2 style="margin-top:0;">About Me</h2>
+  <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;text-align:left;">
+    <h2 style="margin-top:0;text-align:center;">About Me</h2>
 
 - ML Research Engineer @ UW–Madison Molecular Imaging Lab — automatic tumor segmentation of MRI scans
 - SWE Intern @ Federated Hermes — built full-stack ML/AI Solutions for Investment Managers
@@ -41,12 +41,12 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
 </p>
 
-<!-- Career Interests card -->
+<!-- Career Interests (matched light-blue) -->
 <div align="center">
   <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;">
     <h2 style="margin-top:0;">Career Interests</h2>
     <p align="center" style="margin:12px 0 4px 0;">
-      <img src="https://readme-typing-svg.vercel.app/?font=Inter&weight=700&size=22&pause=1100&center=true&vCenter=true&width=700&lines=ML+%E2%80%A2+AI+%E2%80%A2+Agents+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;Fintech+%E2%80%A2+Healthcare+%E2%80%A2+Applied+ML+%2F+DL+Research" alt="Typing Interests" />
+      <img src="https://readme-typing-svg.vercel.app/?font=Inter&weight=700&size=22&pause=1100&center=true&vCenter=true&width=700&color=64B5F6&lines=ML+%E2%80%A2+AI+%E2%80%A2+Agents+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;Fintech+%E2%80%A2+Healthcare+%E2%80%A2+Applied+ML+%2F+DL+Research" alt="Typing Interests" />
     </p>
   </div>
 </div>
@@ -55,10 +55,10 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
 </p>
 
-<!-- Hobbies card -->
+<!-- Hobbies (LEFT aligned again) -->
 <div align="center">
-  <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;">
-    <h2 style="margin-top:0;">Hobbies</h2>
+  <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;text-align:left;">
+    <h2 style="margin-top:0;text-align:center;">Hobbies</h2>
 
 - **Basketball** – played in high school, washed up now but still a pickup merchant (go Celtics!)  
 - **Cooking** – work in progress, but the fire alarm hasn't gone off… recently  
@@ -75,12 +75,12 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
 </p>
 
-<!-- Tech Stack card -->
+<!-- Tech Stack -->
 <div align="center">
   <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;">
     <h2 style="margin-top:0;">Tech Stack</h2>
-    <p>
 
+<p>
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
@@ -116,8 +116,8 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
 <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
+</p>
 
-    </p>
   </div>
 </div>
 
@@ -125,13 +125,13 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:b3e5fc,100:e1f5fe&height=2&section=footer" alt="divider"/>
 </p>
 
-<!-- Links card -->
+<!-- Links (LEFT aligned with logos) -->
 <div align="center">
-  <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;">
-    <h2 style="margin-top:0;">Links</h2>
+  <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;text-align:left;">
+    <h2 style="margin-top:0;text-align:center;">Links</h2>
 
-- LinkedIn: [Veeru Senthil](https://www.linkedin.com/in/veeru-senthil-051892246/)  
-- Email: vksenthil@wisc.edu
+- <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" height="18" alt="LinkedIn"/> LinkedIn: <a href="https://www.linkedin.com/in/veeru-senthil-051892246/">Veeru Senthil</a>  
+- <img src="https://cdn.simpleicons.org/minutemailer/1F6FEB" width="18" height="18" alt="Email"/> Email: <a href="mailto:vksenthil@wisc.edu">vksenthil@wisc.edu</a>
 
   </div>
 </div>
