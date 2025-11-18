@@ -1,10 +1,13 @@
 <!-- Profile README for github.com/Veeru102 -->
 
-<h1 align="center">
+<h1 align="center">Hi there, I'm Veeru Senthil</h1>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2200&pause=900&center=true&vCenter=true&width=800&lines=CS+%2B+Data+Science+student+%40+UW%E2%80%93Madison;building+AI+agents+%26+ML+systems;medical+imaging+%7C+fintech+%7C+edtech;from+segmentation+to+strategy;turning+data+into+decisions;always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1800&pause=1000&center=true&vCenter=true&width=800&lines=CS+%26+Data+Science+student+%40+UW–Madison;Building+AI+Agents+%26+ML+Pipelines;Full-Stack+Developer+%7C+FastAPI+%2B+React;Deep+Learning+for+Segmenting+Brain+Tumors;Hackathon+Addict;Always+Building+Cool+Stuff;EdTech+%7C+ML+Infra+%7C+Open+Source" alt="Typing SVG" />
   </a>
-</h1>
+</p>
+
 
 <p align="center">Veeru Senthil</p>
 <p align="center"><em>Computer Science & Data Science @ University of Wisconsin–Madison</em></p>
@@ -23,18 +26,20 @@
 
 Experienced in building scalable ML pipelines, autonomous agent workflows, and full-stack applications with practical impact across healthcare & finance
 
+Messing around with automated voice agents, computer vision, and low-latency systems
+
 ---
 
 ## Career Interests
 ML • AI • Agents • Natural Language Processing •  Computer Vision • Fintech • Healthcare
 
 ## Hobbies
-- **Basketball** – played in high school, now just a pickup merchant (huge Celtics fan)  
-- **Cooking** – work in progress but kitchen is still intact thankfully
-- **Fantasy Football** – some might consider me an NFL GM 
-- **Legos** – Always looking to build
-- **Star Wars** – Sequel trilogy is not cannon
+- **Basketball** – played in high school, washed up aand now just a pickup merchant (go Celtics!)  
+- **Cooking** – work in progress but kitchen is still intact for now
+- **Fantasy Football** – many might consider me an NFL GM
 - **Chess** – I mostly run the French Defense, Ruy Lopez, or Itallian
+- **Legos** – A MAN HAS FALLEN INTO THE RIVER IN LEGO CITY
+- **Star Wars** – Sequel trilogy is not cannon
 - **Poker** – Might just mess around and beat you at the river   
 
 ---
