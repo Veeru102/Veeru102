@@ -19,9 +19,9 @@
 <!-- About Me (LEFT aligned content; only the heading is centered) -->
 <div style="width:100%;max-width:980px;margin:0 auto;padding:18px 22px;border-radius:14px;background:#f7fbff;border:1px solid #cfe8ff;">
   <h2 align="center" style="margin-top:0;">About Me</h2>
-
-- ML Research Engineer @ UW–Madison Molecular Imaging Lab — automatic tumor segmentation of MRI scans
-- SWE Intern @ Federated Hermes — built full-stack ML/AI Solutions for Investment Managers
+  
+- SWE Intern @ Federated Hermes — Built full-stack ML/AI Solutions for Investment Managers
+- ML Research Engineer @ UW–Madison Molecular Imaging Lab — Automatic tumor segmentation of MRI scans
 - SWE Intern @ Inpleo — Built ML pipelines for procurement & vendor intelligence  
 - Builder of:
   - **MedPub** – AI assistant for demystifying medical publications w/ ML/AI & RAG
