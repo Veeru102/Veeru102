@@ -42,6 +42,7 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
 - **Legos** – A MAN HAS FALLEN INTO THE RIVER IN LEGO CITY  
 - **Star Wars** – Everything except the sequel trilogy  
 - **Poker** – Might just mess around and beat you on the river  
+- **Music** – Mostly house, chill rap, and older stuff (Kettama, it's murph, A$AP Rocky, Drake, Marvin Gaye)
 
 ---
 
