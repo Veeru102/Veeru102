@@ -1,6 +1,5 @@
 # Hi there, I'm Veeru Senthil
-
-CS & Data Science student @ UW–Madison  
+## CS & Data Science student @ UW–Madison  
 
 ---
 
@@ -16,15 +15,9 @@ Builder of:
 - **VibirEdu** – K-12 budget planning simulation with LLM agents  
 - **NeuroStride** – Wearable device for MS patients with real-time ML predictions  
 
-Passionate about:
-- Developing scalable ML workflows  
-- Deploying agent-based systems  
-- Delivering full-stack applications that solve real-world problems  
+Passionate in developing scalable ML workflows, deploying agent-based systems, and delivering full-stack applications that solve real-world problems!
 
-Currently experimenting with:
-- Automated voice agents  
-- Computer vision  
-- CUDA  
+Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
 
 ---
 
@@ -54,17 +47,43 @@ Currently experimenting with:
 
 ## Tech Stack
 
-**Languages**  
-Python · Java · JavaScript · TypeScript · C · C# · C++ · R · SQL · Bash  
+<p>
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white"/>
 
-**ML / Data**  
-PyTorch · TensorFlow · scikit-learn · Pandas · NumPy  
+<!-- ML / Data -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
 
-**Backend / Frontend**  
-FastAPI · Spring Boot · React · Node.js · JUnit  
+<!-- Backend / Frontend -->
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?logo=java&logoColor=white"/>
 
-**Cloud / Tools**  
-AWS · MongoDB · Git · Docker · Kubernetes · Kafka · Redis · Jenkins  
+<!-- Cloud / Tools -->
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
+</p>
 
 ---
 
