@@ -55,7 +55,6 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white"/>
