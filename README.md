@@ -5,16 +5,12 @@
 
 ## About Me
 
-- SWE Intern @ **Federated Hermes** — Built full-stack ML/AI solutions for investment managers  
-- ML Research Engineer @ **UW–Madison Molecular Imaging Lab** — Automatic tumor segmentation of MRI scans  
-- SWE Intern @ **Inpleo** — Built ML pipelines for procurement & vendor intelligence  
+- SWE Intern @ Amex - Payment Technology and Merchant Platform
+- SWE Intern @ **Federated Hermes** — Asset Management Technology & Investment Analytics
+- ML Research Engineer @ **UW–Madison Molecular Imaging Lab** — Machine Learning for Medical Imaging & Brain Tumor Segmentation 
+- SWE Intern @ **Inpleo** — AI/ML for Vendor & Procurement Analytics
 
-Builder of:
-- **MedPub** – AI assistant for demystifying medical publications with ML/AI & RAG  
-- **PropPulse** – Property analytics platform using embeddings and prediction models  
-- **VibirEdu** – K-12 budget planning simulation with LLM agents  
-- **NeuroStride** – Wearable device for MS patients with real-time ML predictions  
-
+ 
 Passionate in developing scalable ML workflows, deploying agent-based systems, and delivering full-stack applications that solve real-world problems!
 
 Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
@@ -35,14 +31,13 @@ Currently experimenting with Automated Voice Agents, Computer Vision, and CUDA
 
 ## Hobbies
 
-- **Basketball** – Played in high school; pickup regular (go Celtics!)  
-- **Cooking** – Work in progress, but the fire alarm hasn't gone off… recently  
+- **Basketball** – Played in high school and IM Warrior
 - **Fantasy Football** – Many would consider me an NFL GM  
-- **Chess** – Usually playing the French, Ruy Lopez, or Italian  
-- **Legos** – A MAN HAS FALLEN INTO THE RIVER IN LEGO CITY  
+- **Chess** – Next Magnus Carlsen 
 - **Star Wars** – Everything except the sequel trilogy  
-- **Poker** – Might just mess around and beat you on the river  
-- **Music** – Mostly house, chill rap, and older stuff (Kettama, it's murph, A$AP Rocky, Drake, Marvin Gaye)
+- **Poker** – River warrior
+- **Cooking** – Work in progress, but the fire alarm hasn't gone off… recently
+- **Music** – Mostly house + chill rap (Kettama, it's Murph, Riordan, Prospa A$AP Rocky, Drake, Marvin Gaye)
 
 ---
 
