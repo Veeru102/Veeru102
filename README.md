@@ -6,11 +6,13 @@ Interest areas: Distributed Systems, Machine Learning, Infra, Agent Architecture
 
 Hobbies: Basketball, Hiking, Chess, Poker, Legos, Fantasy Football, House Music
 
-Working on: 
+Research Areas: 
 
 - Freshness-aware RAG and retrieval over evolving information with Prof. Ahmed Mahmood
 - Systems for operationalizing semantic operators through physical design, caching, materialized views, and query optimization with Prof. Tianyu Li
-- Converge — a Rust distributed sync engine for offline-first collaborative applications
+
+Ongoing Projects: 
+- Converge — a local-first collaborative canvas with a custom Rust sync engine for offline edits, reconnect recovery, and deterministic convergence
 - DispatchLab — a discrete-event simulator for spatial dispatch and assignment optimization (Inspired by Uber’s dispatch systems and DoorDash’s logistics optimization)
 
 ## Links
