@@ -2,7 +2,7 @@ What's up! My name is Veeru Senthil. I am a junior CS+DS student at UW-Madison. 
 
 I interned at American Express this past summer. Currently I am a researcher in the UW-Madison Database group supervised Professors Tianyu Li and Ahmed Mahmood!
 
-Interest areas: Distributed Systems, Machine Learning, Infra, Agent Architecture, Database Optimization (particularly for LLMs/Semantic Operators)
+Interest areas: Distributed Systems, Infrastructure, Cloud Computing, Machine Learning, Retrieval Systems & Agent Architectures, and Database Systems for LLM/semantic workloads
 
 Hobbies: Basketball, Hiking, Chess, Poker, Legos, Fantasy Football, House Music
 
