@@ -1,13 +1,14 @@
-What's up! My name is Veeru Senthil. I am a junior CS+DS student at UW-Madison. I love to build!
+What's up! Welcome to my profile! Check out all of my awesome projects!
 
-I interned at American Express this past summer. Currently I am a researcher in the UW-Madison Database group supervised Professors Tianyu Li and Ahmed Mahmood!
+A little about me. My name is Veeru Senthil. I was born and raised in Pittsburgh, Pennsylvania, and I am a junior Computer and Data Science student at UW-Madison! Go Badgers!
+
+This past summer, I was a Software Engineer Intern at American Express. Currently I am a researcher in the UW-Madison Database group supervised Professors Tianyu Li and Ahmed Mahmood!
 
 Interest areas: Distributed Systems, Infrastructure, Cloud Computing, Machine Learning, Retrieval Systems & Agent Architectures, and Database Systems for LLM/semantic workloads
 
 Hobbies: Basketball, Hiking, Chess, Poker, Legos, Fantasy Football, House Music
 
 Research Areas: 
-
 - Freshness-aware RAG and retrieval over evolving information with Prof. Ahmed Mahmood
 - Systems for operationalizing semantic operators through physical design, caching, materialized views, and query optimization with Prof. Tianyu Li
 
