@@ -1,6 +1,6 @@
 What's up! Welcome to my profile! Check out all of my awesome projects!
 
-A little about me. My name is Veeru Senthil. I was born and raised in Pittsburgh, Pennsylvania, and I am a junior Computer and Data Science student at UW-Madison! Go Badgers!
+My name is Veeru Senthil. I was born and raised in Pittsburgh, Pennsylvania, and I am a junior Computer and Data Science student at UW-Madison! Go Badgers!
 
 This past summer, I was a Software Engineer Intern at American Express. Currently I am a researcher in the UW-Madison Database group supervised Professors Tianyu Li and Ahmed Mahmood!
 
